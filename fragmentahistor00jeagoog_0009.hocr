@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fragmentahistor00jeagoog_0009.png"; bbox 0 0 971 1510; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 514 578 581 592">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 514 578 581 592">
+     <span class='ocr_line' id='line_1_1' title="bbox 514 578 581 592; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 514 578 581 592; x_wconf 57' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 327 610 764 624">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 327 610 764 624">
+     <span class='ocr_line' id='line_1_2' title="bbox 327 610 764 624; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 327 611 382 621; x_wconf 67' lang='grc' dir='ltr'>ι-Αιιιιιιι.</span> <span class='ocrx_word' id='word_1_3' title='bbox 391 615 406 618; x_wconf 98' lang='grc'><strong>-</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 415 612 493 621; x_wconf 71' lang='lat' dir='ltr'><strong>:xoummm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 501 612 543 621; x_wconf 73' lang='lat' dir='ltr'><strong>num</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 551 612 588 622; x_wconf 68' lang='lat' dir='ltr'><strong>unm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 596 612 656 624; x_wconf 66' lang='grc' dir='ltr'><strong>,κη-ηε,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 664 612 684 621; x_wconf 61' lang='grc' dir='ltr'><strong>ιιι</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 692 612 729 621; x_wconf 72' lang='lat' dir='ltr'><strong>nm-</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 744 610 764 621; x_wconf 59' lang='grc' dir='ltr'><strong>ξε.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
